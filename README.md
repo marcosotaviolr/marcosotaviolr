@@ -1,6 +1,7 @@
 # Olá, eu sou o Marcos Otavio 👋
 
 🎓 **Estudante de Ciência da Computação** 
+
 🇧🇷 Belo Horizonte, Brasil
 
 Estou no início da minha jornada como desenvolvedor, focado em construir uma base sólida em programação e conquistar minha primeira oportunidade como estagiário.
@@ -43,9 +44,15 @@ Estou em busca do meu **primeiro estágio**, onde possa aplicar e expandir meus 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/marcosotaviolr"></a>
-  <a href="https://linkedin.com/in/marcos-otavio-lima-resende-015509363"></a>
-  <a href="https://instagram.com/marcosotaviolr"></a>
+  <a href="https://github.com/marcosotaviolr">
+    <img src="https://img.shields.io/badge/GitHub-marcosotaviolr-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcos-otavio-lima-resende-015509363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Otavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/marcosotaviolr">
+    <img src="https://img.shields.io/badge/Instagram-@marcosotaviolr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
