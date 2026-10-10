@@ -47,10 +47,10 @@ Estou em busca do meu **primeiro estágio em desenvolvimento de software**, onde
     <img src="https://img.shields.io/badge/GitHub-marcosotaviolr-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/marcos-otavio-lima-resende-015509363">
-    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Otávio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Marcos%20Otavio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/marcosotaviolr">
-    <img src="https://img.shields.io/badge/Instagram-@SEU__INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@marcosotaviolr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
