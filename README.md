@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos Otávio 👋
+# Olá, eu sou o Marcos Otavio 👋
 
 🎓 **Estudante de Ciência da Computação**
 🇧🇷 Belo Horizonte, Brasil
